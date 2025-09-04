@@ -1,0 +1,14 @@
+{
+  "name": "StableSwap Base",
+  "description": "StableSwap Base is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://2c5c552b-a942-4b75-a9f8-efae4aa9021e.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "StableSwap Base",
+      "description": "StableSwap Base is a Base Mini App built with Zara.",
+      "url": "https://2c5c552b-a942-4b75-a9f8-efae4aa9021e.vistara.dev",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
